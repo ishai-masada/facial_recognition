@@ -7,7 +7,7 @@ face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_fronta
 
 # Load Camera Input
 vid = cv2.VideoCapture(vid_path)
-#vid = cv2.VideoCapture(0)
+#vid = cv2.VideoCapture(1)
 #print(vid.isOpened())
 
 while True:
