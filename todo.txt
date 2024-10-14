@@ -1,0 +1,4 @@
+- Write program to recognize a face without the use of a camera
+    - Just use a photo and have the program recognize the face in the photo
+- Create face database for the program to recognize specific faces
+- Figure out how to call the imshow() function using a variable instead of hardcoding it
